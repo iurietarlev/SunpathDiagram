@@ -1,7 +1,7 @@
 # Sun Path Diagram for any given location or latitude on earth
 
 ## Executive Summary
-This code was written as part of the unit Computer Applications during my first year at university, where we learnt how to write small Python programs. For my final project for this unit I have opted to automate drawing a Sun Path Diagram. All code has been written in Python 2.7.
+This code was written as part of the unit Computer Applications during my first year at university, where we learnt how to write small Python programs. For my final project for this unit I have opted to automate drawing a Sun Path Diagram, by taking the location or latitude as the input from the user. All code has been written in Python 2.7.
 
 
 ## Sun Path Diagram Definition
